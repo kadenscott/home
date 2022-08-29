@@ -7,6 +7,7 @@ Welcome to the site.
 ```
 Discord: bluely#6758
 GitHub: kadenscott
+Email: contact at ˈkeɪdən ˈdɑːt ˈɛs ˈeɪtʃ
 ```
 
 ## Cool Links

@@ -7,7 +7,7 @@ Welcome to the site.
 ```
 Discord: bluely#6758
 GitHub: kadenscott
-Email: contact at ˈkeɪdən ˈdɑːt ˈɛs ˈeɪtʃ
+Email: the word contact plus the at symbol plus the name of the domain address of this website
 ```
 
 ## Cool Links

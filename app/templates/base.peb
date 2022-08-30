@@ -1,0 +1,20 @@
+<html lang="en-US">
+<head>
+    <title>{% block title %}My Website{% endblock %}</title>
+    <link href="/css/root.css" rel="stylesheet">
+    <link href="/css/basic.css" rel="stylesheet">
+</head>
+<body>
+<header id="header">
+    <h1 id="title">kaden.sh</h1>
+    <hr />
+</header>
+<main id="content">
+    {% block content %}{% endblock %}
+</main>
+<div id="footer">
+    {% block footer %}
+    {% endblock %}
+</div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+{% extends "base.peb" %}
+
+{% block content %}
+    {{ content }}
+{% endblock %}

@@ -34,7 +34,8 @@ public class Application {
                     this.registerRenderers(config);
                 })
                 .get("/", this::handleIndex)
-                .get("/projects", ctx -> ctx.render("projects.html"))
+                .get("/posts/navy-cafe", ctx -> ctx.render("navy-cafe.md"))
+                .get("/posts/lyrics", ctx -> ctx.render("lyrics.md"))
                 .start(7070);
 
     }
